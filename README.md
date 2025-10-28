@@ -15,11 +15,11 @@ Each object’s traveled distance and displacement are calculated, and results a
 
 📊 Algorithm
 
-  -The Merge Sort algorithm was chosen for its divide-and-conquer strategy, which provides:
+  - The Merge Sort algorithm was chosen for its divide-and-conquer strategy, which provides:
 
-  -Best, average, and worst-case complexity: O(n log n)
+  - Best, average, and worst-case complexity: O(n log n)
 
-  -Stable sorting, maintaining relative order of equal elements.
+  - Stable sorting, maintaining relative order of equal elements.
 
   - Excellent performance for large datasets of trajectories.
 
@@ -33,8 +33,8 @@ X004 3.65 1.00
 
 This project reinforced key concepts in:
 
-Modular programming and ADTs in C.
+  - Modular programming and ADTs in C.
 
-Implementation and analysis of Merge Sort.
+  - Implementation and analysis of Merge Sort.
 
-Dynamic memory management and computational geometry.
+  - Dynamic memory management and computational geometry.
